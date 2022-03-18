@@ -1,5 +1,7 @@
 # Weather-Application
+
 A weather application which uses asynchronous Javascript to display weather details,  it uses the Accuweather API.
+
  
 Here is a demonstration of me using the Weather Application:
 
